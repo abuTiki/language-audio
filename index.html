@@ -69,6 +69,7 @@ h1 { margin: 2px 0 8px; font: 700 34px/1.1 var(--serif); text-wrap: balance; }
 
 /* page sections */
 .pg { margin-top: 18px; scroll-margin-top: 4px; }
+.clip { scroll-margin-top: 96px; } /* clear the sticky page heading (up to ~86 px when it wraps) on #track links */
 .pg h2 {
   position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
   margin: 0; padding: 10px 0 10px; background: var(--bg);
