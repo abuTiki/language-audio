@@ -1,0 +1,100 @@
+{
+ "book_script": "ru-ch0-v0.9-audio.json",
+ "pages": {
+  "11": [
+   {
+    "id": "ru0-alphabet",
+    "track": "11.1",
+    "seconds": 43.95
+   }
+  ],
+  "13": [
+   {
+    "id": "ru0-letter-а",
+    "track": "13.1",
+    "seconds": 1.98
+   },
+   {
+    "id": "ru0-letter-к",
+    "track": "13.2",
+    "seconds": 1.81
+   },
+   {
+    "id": "ru0-letter-м",
+    "track": "13.3",
+    "seconds": 1.9
+   },
+   {
+    "id": "ru0-letter-о",
+    "track": "13.4",
+    "seconds": 2.12
+   },
+   {
+    "id": "ru0-letter-т",
+    "track": "13.5",
+    "seconds": 1.86
+   }
+  ],
+  "14": [
+   {
+    "id": "ru0-words-g1",
+    "track": "14.1",
+    "seconds": 10.3
+   },
+   {
+    "id": "ru0-task-g1",
+    "track": "14.2",
+    "seconds": 4.78
+   }
+  ],
+  "19": [
+   {
+    "id": "ru0-letter-в",
+    "track": "19.1",
+    "seconds": 2.13
+   },
+   {
+    "id": "ru0-letter-е",
+    "track": "19.2",
+    "seconds": 2.14
+   },
+   {
+    "id": "ru0-letter-н",
+    "track": "19.3",
+    "seconds": 1.98
+   },
+   {
+    "id": "ru0-letter-р",
+    "track": "19.4",
+    "seconds": 2.03
+   },
+   {
+    "id": "ru0-letter-с",
+    "track": "19.5",
+    "seconds": 2.1
+   },
+   {
+    "id": "ru0-letter-у",
+    "track": "19.6",
+    "seconds": 1.89
+   },
+   {
+    "id": "ru0-letter-х",
+    "track": "19.7",
+    "seconds": 2.04
+   }
+  ],
+  "20": [
+   {
+    "id": "ru0-words-g2",
+    "track": "20.1",
+    "seconds": 13.12
+   },
+   {
+    "id": "ru0-task-g2",
+    "track": "20.2",
+    "seconds": 5.54
+   }
+  ]
+ }
+}
